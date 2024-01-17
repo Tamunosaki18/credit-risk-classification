@@ -8,7 +8,7 @@ Instructions
 -The credit_risk_classification.ipynb file contains the analysis
 -Resources folder contains source data
 -The anlaysis contains methods such as Logistic Regression and Random Over Sampling.
--Finally a report is included written as a Markdown Source File Report.md
+
 
 
 References
